@@ -1,0 +1,11 @@
+{
+  "from": "Sarah<sarah@domain.com>",
+  "subject": "Hi there",
+  "templatesFolder": "./templates",
+  "contactsFolder": "./contacts",
+  "smtp": {
+    "host": "mail.host.com",
+    "port": 587,
+    "user": "sarah@domain.com"
+  }
+}
